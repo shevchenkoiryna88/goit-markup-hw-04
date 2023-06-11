@@ -204,8 +204,9 @@ position: absolute;
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
+    
     background-size: cover;
-    ;}
+    }
 
 .hero-titel{font-size: 56px;
 line-height: 1.07;

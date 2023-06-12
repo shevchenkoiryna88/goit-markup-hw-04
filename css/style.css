@@ -679,7 +679,7 @@ margin-bottom: 16px;}
    }
 
 .backdrop.is-hidden .modalwindow{
-    transform: translate(-50%, -50%) scale(1);
+    transform: translate(-50%, -50%) scale(0);
 }
 
    .is-hidden{
@@ -693,7 +693,7 @@ margin-bottom: 16px;}
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%) scale(1);
     width: 408px;
     min-height: 584px;
     background: #fcfcfc;
